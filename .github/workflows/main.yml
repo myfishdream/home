@@ -34,4 +34,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           # 将 CNAME 文件复制到 dist 目录（如果您有自定义域名）
-          cname: yumeng.icu
+          # cname: yumeng.icu
